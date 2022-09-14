@@ -1,16 +1,7 @@
 # rest_api_integration
 
-A new Flutter project.
+A basic flutter application that displays data from the given REST API - https://jsonplaceholder.typicode.com/posts
 
-## Getting Started
+Screenshots -
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1663192194](https://user-images.githubusercontent.com/93620333/190270381-8f0711a1-aa2d-4600-b1f8-625cbd2e9d3a.png)
